@@ -4,7 +4,7 @@
   <groupId>com.kr.maximo</groupId>
   <artifactId>maximo_selenium_cucumber_test_tool</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Maximo_selenium_cucumber_tool</name>
+  <name>Maximo_selenium_cucumber_Tool</name>
   
   <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
